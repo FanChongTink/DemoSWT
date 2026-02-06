@@ -1,22 +1,34 @@
-# Welcome to Math Repository
+# \# Welcome to Math Repository
 
-## You will find in this repo the following stuff:
+# 
 
-* A Maven project to simulate the standard Java Math library
-* A test script using JUnit Testing Framework with TDD, DDT
-* A CI(Continous Integration) script using Github Actions
+# You will find in this repo the following stuff:
 
+# 
 
+# \* A Maven project to simulate the standard Java Math library
 
-\## Screenshots
+# \* A test script using JUnit Testing Framework with TDD, DDT
 
-!\[Unit Test](https://github.com/FanChongTink/DemoSWT/blob/main/screenshots/JUnitandDDT.png)
+# \* A CI (Continuous Integration) script using GitHub Actions
 
-!\[Maven](https://github.com/FanChongTink/DemoSWT/blob/main/screenshots/MavenPackage.png)
+# 
 
+# \## Screenshots
 
+# 
 
-### Connect me via tinhphan2207@gmail.com
+# !\[Unit Test](https://raw.githubusercontent.com/FanChongTink/DemoSWT/main/screenshots/JUnitandDDT.png)
 
-#### © 2026 fct.x.Coco
+# !\[Maven](https://raw.githubusercontent.com/FanChongTink/DemoSWT/main/screenshots/MavenPackage.png)
+
+# 
+
+# ---
+
+# \*\*Connect me via:\*\* \[tinhphan2207@gmail.com](mailto:tinhphan2207@gmail.com)
+
+# 
+
+# © 2026 fct.x.Coco
 
