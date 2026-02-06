@@ -8,7 +8,7 @@ public class MathUtility {
     //20! vừa đủ kiểu long- 18 con số 0, 21! kiểu long chứa ko nổi
     public static long getFactorial(int n) {
 
-        long result = 10;
+        long result = 1;
         if (n < 0 || n > 20) {
             throw new IllegalArgumentException("n must be between 0 and 20");
         }
